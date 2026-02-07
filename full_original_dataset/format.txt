@@ -1,0 +1,4 @@
+Original image folder, format:
+./IMG_2932.jpg
+./IMG_2934.jpg
+./IMG_2935.jpg
